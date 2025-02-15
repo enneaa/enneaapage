@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"page怎样在 Obsidian 中搭建本地知识库.md","permalink":"/page怎样在 Obsidian 中搭建本地知识库/"}
+{"dg-publish":true,"dg-path":"page/怎样在 Obsidian 中搭建本地知识库.md","permalink":"/page/怎样在 Obsidian 中搭建本地知识库/"}
 ---
 
 [[页面/Obsidian\|Obsidian]] [[页面/AI\|AI]] [[页面/信息管理\|知识管理]] [[页面/教程\|教程]]
